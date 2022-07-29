@@ -1,0 +1,21 @@
+{
+  "name": "confetti-popper",
+  "version": "1.0.0",
+  "description": "A confetti popper implemented as a drop-in custom element. 🎉",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomayac/confetti-popper.git"
+  },
+  "author": "Thomas Steiner (tomac@google.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tomayac/confetti-popper/issues"
+  },
+  "homepage": "https://github.com/tomayac/confetti-popper#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
